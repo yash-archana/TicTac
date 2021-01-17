@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TicTac/static/css/main.2b2d4f58.chunk.css",
+    "main.js": "/TicTac/static/js/main.160e269a.chunk.js",
+    "main.js.map": "/TicTac/static/js/main.160e269a.chunk.js.map",
+    "runtime-main.js": "/TicTac/static/js/runtime-main.07736d81.js",
+    "runtime-main.js.map": "/TicTac/static/js/runtime-main.07736d81.js.map",
+    "static/js/2.cd98347b.chunk.js": "/TicTac/static/js/2.cd98347b.chunk.js",
+    "static/js/2.cd98347b.chunk.js.map": "/TicTac/static/js/2.cd98347b.chunk.js.map",
+    "static/js/3.0bd215b4.chunk.js": "/TicTac/static/js/3.0bd215b4.chunk.js",
+    "static/js/3.0bd215b4.chunk.js.map": "/TicTac/static/js/3.0bd215b4.chunk.js.map",
+    "index.html": "/TicTac/index.html",
+    "static/css/main.2b2d4f58.chunk.css.map": "/TicTac/static/css/main.2b2d4f58.chunk.css.map",
+    "static/js/2.cd98347b.chunk.js.LICENSE.txt": "/TicTac/static/js/2.cd98347b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TicTac/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07736d81.js",
+    "static/js/2.cd98347b.chunk.js",
+    "static/css/main.2b2d4f58.chunk.css",
+    "static/js/main.160e269a.chunk.js"
+  ]
+}
